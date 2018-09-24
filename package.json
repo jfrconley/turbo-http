@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "http-parser-js": "^0.4.11",
-    "turbo-net": "^1.4.0"
+    "turbo-net": "git+https://github.com/mafintosh/turbo-net"
   },
   "devDependencies": {
     "autocannon": "^2.4.1",
